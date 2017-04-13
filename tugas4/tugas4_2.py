@@ -71,7 +71,8 @@ def parse(row):
     
 temp_data = data.map(lambda x: x.split(','))
 temp_data = temp_data.filter(lambda x: len(x) == 12)
-temp_data = temp_data.filter(lambda x: RepresentsFloat(x[9],x[10]) == True)
+temp_data = temp_data.filter(lambda x: RepresentsFloat(x[9],x[10])==True )
+temp_data = temp_data.filter(lambda x: (x[9]!='0' or x[10]!='0'))
 datafix = temp_data.map(parse)
 
 def plot(centers):
@@ -85,10 +86,8 @@ clusters = KMeans.train(parsedData, k, maxIterations=1000, initializationMode="r
 
 cmap = plt.get_cmap('jet')
 colormap = cmap(np.linspace(0, 1, k))
-#colormap = np.random.rand(k,1)
 
 a=clusters.predict(parsedData)
-
 b=parsedData.collect()        
 c=np.mat(b)
 
