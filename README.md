@@ -19,3 +19,9 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4486341183467971/3745339292047577/791049111194477/latest.html<br><br>
 
 Aditya Ikhsan -       5114100186 <br>
+  - Tugas 1 : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5360417623619183/2270977418338114/435523030669711/latest.html <br>
+  
+  - Tugas 2 Scala : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5360417623619183/3277003807256256/435523030669711/latest.html <br>
+
+  - Tugas 2 Python : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5360417623619183/3277003807256272/435523030669711/latest.html 
+
