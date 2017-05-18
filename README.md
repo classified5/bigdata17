@@ -12,7 +12,8 @@ Dataset FP : https://archive.ics.uci.edu/ml/datasets/Poker+Hand
 
 Muhammad Rifatullah -  5114100118 <br>
   * Twitter streaming : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8256378757503696/1330492796954154/8300411056416862/latest.html<br>
-  * tugas 2 : <br>
+  * tugas 2 scala: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8256378757503696/1330492796954169/8300411056416862/latest.html<br>
+  * tugas 2 python: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8256378757503696/1330492796954190/8300411056416862/latest.html<br>
 
 
 Andreas Galang -      5114100153 <br>
