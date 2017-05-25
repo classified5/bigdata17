@@ -8,6 +8,11 @@ Aditya Ikhsan -       5114100186 <br>
 <br>
 Dataset FP : https://archive.ics.uci.edu/ml/datasets/Poker+Hand 
 
+<h2>Tugas 8</h2>
+Muhammad Rifatullah -  5114100118 <br>
+Andreas Galang -      5114100153 : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4486341183467971/1424947291885196/791049111194477/latest.html<br>
+Aditya Ikhsan -       5114100186 <br>
+
 <h2>Tugas 7</h2>
 
 Muhammad Rifatullah -  5114100118 <br>
