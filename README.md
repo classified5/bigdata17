@@ -7,6 +7,7 @@ Andreas Galang -      5114100153 <br>
 Aditya Ikhsan -       5114100186 <br>
 <br>
 Dataset FP : https://archive.ics.uci.edu/ml/datasets/Poker+Hand 
+<br>
 Presentasi FP : https://docs.google.com/presentation/d/1qS_73pvVFow9KvtIkATYq5kWKU_TG6WLPhW6_IqPCE0/edit?usp=sharing
 
 <h2>Tugas 8</h2>
